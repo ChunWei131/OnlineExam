@@ -1,0 +1,3 @@
+Flask
+pymongo
+dnspython   # sometimes needed for MongoDB connection
